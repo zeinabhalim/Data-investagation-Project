@@ -1,1 +1,1 @@
-IT end-to-end data analysis workflow using the Python toolkit, starting from raw multivariate datasets. This included data cleaning, visualization, and statistical interrogation using tools such as Pandas and Seaborn, allowing me to uncover meaningful correlations and trends.
+It is a end-to-end data analysis workflow using the Python toolkit, starting from raw multivariate datasets. This included data cleaning, visualization, and statistical interrogation using tools such as Pandas and Seaborn.
